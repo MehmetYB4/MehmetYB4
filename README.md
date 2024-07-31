@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo20726
-Fork on GitHub6373
 <h1 align="center">Hi there 👋, I'm Mehmet Yusuf Bircan</h1>
 <h3 align="center">junior data scientist from Türkiye</h3>
 
